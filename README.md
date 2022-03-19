@@ -1,2 +1,2 @@
 # Dissimuss-discordcryptobot
- discordbot for crypto notifications
+ discordbot for crypto notifications 
